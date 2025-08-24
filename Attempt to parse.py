@@ -226,14 +226,4 @@ while Year != 2024: # The timeframe of the paper - 2023, so we don't need 2024.
 wb.save(work_name) # When the program is done, it rewrites the file, so we don't consume much space
 
 
-# In[2]:
-
-
-pip install aspose-words
-
-
-# In[ ]:
-
-
-
 
